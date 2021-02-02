@@ -3,19 +3,19 @@
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
 ```
-
+it allows us to get to the correct file path destination
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
 ```
-
+this is used to make a new file directory
 ```
 
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+This allows us to actually create an HTML web page
 ```
 
 **4.** What does `HTML` stand for?
