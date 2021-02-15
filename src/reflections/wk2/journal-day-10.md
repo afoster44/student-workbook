@@ -1,0 +1,5 @@
+# end of week two
+Honestly what an amazing feeling. To think just a couple of weeks ago I came in these doors and didn't know how to start building a single thing. Now I understand how to start forming and building websites with bootstrap and css, then add some great features in with JavaScript. I know I need to be easier on myself. I have not honestly gone and done anything for myself since my wife has been pregnant, and I have been studying. So this weekend I think to reset my brain I'm going to go play in the snow. YES I SAID PLAY IN THE SNOW. I love snowboarind...bet I'll get some videos of some cool tricks, ask me and I would love to show them to you :P. Thank you to who ever may be reading this. I love this journey so much.
+---
+## link to weekend checkpoint
+https://afoster44.github.io/wktwo-checkpoint/
