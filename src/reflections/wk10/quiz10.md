@@ -43,7 +43,7 @@ string is an indication of the Data Type of the method.
 **7.** In the example what is `abstract` preventing?
 <!-- enter you answer in the space below -->
 ```
-An abstract class is only meant to be inherited by its children and should only be used if you are either barely using it or not using it at all.
+An abstract class is only meant to be inherited by its children and should only be used if you are either barely using it or not using it at all. We can set up an abstract class to later be inherited by an interface.
 ```
 **8.** In the example what is the purpose of `virtual`?
 <!-- enter you answer in the space below -->
